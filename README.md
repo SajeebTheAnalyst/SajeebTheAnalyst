@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL • Power BI • Python • Excel | Turning Raw Data into Business Insights</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajibkhansk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SajeebTheAnalyst&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
   <a href="mailto:iamsojib582@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/sajibkhansk" target="_blank">
+  <a href="https://github.com/SajeebTheAnalyst" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -94,12 +94,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajibkhansk&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibkhansk&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SajeebTheAnalyst&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajeebTheAnalyst&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibkhansk&layout=compact&theme=dark&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajeebTheAnalyst&layout=compact&theme=dark&hide_border=true" width="40%" />
 </p>
 
 ---
