@@ -148,13 +148,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajeebTheAnalyst&theme=dark&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="55%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SajeebTheAnalyst&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajeebTheAnalyst&theme=dark&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="60%" />
 </div>
 
 ---
