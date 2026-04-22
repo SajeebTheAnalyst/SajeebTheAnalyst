@@ -25,19 +25,14 @@
 
 ## 👨‍💻 About Me
 
-```python
-sajeeb = {
-    "name"       : "Mosaddek Hosen Sajeeb",
-    "role"       : "Data Analyst",
-    "education"  : "B.Sc. @ Rangpur Government College (2026)",
-    "location"   : "Pirganj, Rangpur, Bangladesh",
-    "skills"     : ["SQL", "Power BI", "Python", "Excel", "Looker Studio"],
-    "automation" : ["Zapier", "n8n"],
-    "currently"  : "Google Data Analytics Professional Certificate",
-    "open_to"    : "Remote Data Analyst / BI Analyst Roles",
-    "email"      : "iamsojib582@gmail.com"
-}
-```
+- 🎓 Studying **B.Sc. at Rangpur Government College** (Expected 2026) — GPA: 3.09/4.00
+- 💼 Results-focused **Data Analyst** with hands-on experience in e-commerce, fintech & service industries
+- 📊 I build **interactive dashboards** that support faster, smarter business decisions
+- 🤖 I automate workflows using **Zapier & n8n** to reduce manual effort
+- 🌱 Currently completing the **Google Data Analytics Professional Certificate**
+- 👯 Open to **Remote Data Analyst / BI Analyst Roles**
+- 📫 Reach me at **iamsojib582@gmail.com**
+- 🌍 Based in **Pirganj, Rangpur, Bangladesh**
 
 ---
 
