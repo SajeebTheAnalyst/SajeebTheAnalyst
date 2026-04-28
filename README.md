@@ -17,8 +17,6 @@
   <a href="https://sajeeb-the-analyst.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=SajeebTheAnalyst&label=Profile%20Views&color=2563eb&style=flat" />
 </div>
 
 ---
