@@ -3,7 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=200&section=header&text=Mosaddek%20Hosen%20Sajeeb&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python%20%E2%80%A2%20Excel&descAlignY=58&descSize=18&descColor=a0c4ff" />
 </div>
 
-<!-- Profile Views + Socials -->
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;Turning+Raw+Data+into+Business+Insights;Building+Dashboards+that+Drive+Decisions;Automating+Workflows+with+Zapier+%26+n8n;Open+to+Remote+Data+Analyst+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- Socials -->
 <div align="center">
   <a href="https://www.linkedin.com/in/sajeeb-the-analyst" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -149,6 +156,21 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajeebTheAnalyst&theme=dark&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="60%" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajeebTheAnalyst&theme=react-dark&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff&hide_border=true" width="95%" />
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
 </div>
 
 ---
