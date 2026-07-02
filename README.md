@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;Turning+Raw+Data+into+Business+Insights;Building+Dashboards+that+Drive+Decisions;Automating+Workflows+with+Zapier+%26+n8n;Open+to+Remote+Data+Analyst+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;Turning+Raw+Data+into+Business+Insights;Building+Dashboards+that+Drive+Decisions;AI-Powered+Web+Developer+%7C+Vibe+Coding;Open+to+Remote+Data+Analyst+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
   <a href="https://github.com/SajeebTheAnalyst" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://sajeeb-the-analyst.lovable.app" target="_blank">
+  <a href="https://sajeeb-the-analyst.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <br/><br/>
@@ -32,11 +32,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **B.Sc. at Rangpur Government College** (Expected 2026) — GPA: 3.09/4.00
+- 🎓 **B.Sc. Graduate** — Rangpur Government College (2nd Division)
 - 💼 Results-focused **Data Analyst** with hands-on experience in e-commerce, fintech & service industries
 - 📊 I build **interactive dashboards** that support faster, smarter business decisions
-- 🤖 I automate workflows using **Zapier & n8n** to reduce manual effort
-- 🌱 Currently completing the **Google Data Analytics Professional Certificate**
+- 🤖 I automate workflows using **n8n** to reduce manual effort
+- 🌐 I build **AI-powered websites** using Lovable, Cursor AI & Google AI Studio (Vibe Coding)
+- 🏆 **Google Data Analytics Professional Certificate** — Completed
 - 👯 Open to **Remote Data Analyst / BI Analyst Roles**
 - 📫 Reach me at **iamsojib582@gmail.com**
 - 🌍 Based in **Pirganj, Rangpur, Bangladesh**
@@ -60,10 +61,19 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+### 🌐 Web Development (Vibe Coding)
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
 ### ⚙️ Automation & Tools
 <p>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -87,14 +97,14 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🍔 FoodPanda Review Analysis</h3>
-      <p><strong>Excel + PostgreSQL + Power BI</strong></p>
+      <h3>🍽️ Mollywood Kitchen</h3>
+      <p><strong>React.js + Tailwind CSS + Supabase</strong></p>
       <ul>
-        <li>Analyzed <strong>300,000+</strong> customer reviews</li>
-        <li>Improved data reliability by <strong>25%</strong></li>
-        <li>Reporting time cut from <strong>3 hrs → 30 mins</strong></li>
+        <li>Built a full-stack restaurant website using <strong>Vibe Coding</strong></li>
+        <li>Integrated <strong>Supabase</strong> backend for menu & orders</li>
+        <li>Responsive UI with <strong>React.js & Tailwind CSS</strong></li>
       </ul>
-      <a href="https://github.com/SajeebTheAnalyst/FoodPanda-Review-Analysis">
+      <a href="https://github.com/SajeebTheAnalyst/Mollywood-Kitchen">
         <img src="https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -128,7 +138,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📂 More Projects</h3>
-      <p>Explore all my data analysis projects including datasets, dashboards, SQL scripts and documentation.</p>
+      <p>Explore all my data analysis & web development projects including datasets, dashboards, SQL scripts and documentation.</p>
       <br/>
       <a href="https://github.com/SajeebTheAnalyst?tab=repositories">
         <img src="https://img.shields.io/badge/All%20Repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" />
@@ -145,7 +155,7 @@
 
 | Certificate | Provider | Status |
 |---|---|---|
-| Google Data Analytics Professional | Google / Coursera | 🔄 In Progress |
+| Google Data Analytics Professional | Google / Coursera | ✅ Completed |
 | Python for Data Analytics | LearnMore | ✅ Completed |
 | Power BI Self Learning Course | LearnMore | ✅ Completed |
 | SQL Micro Course | LearnMore | ✅ Completed |
