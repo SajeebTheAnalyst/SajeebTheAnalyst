@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=200&section=header&text=Mosaddek%20Hosen%20Sajeeb&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Python%20%E2%80%A2%20Excel&descAlignY=58&descSize=18&descColor=a0c4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=200&section=header&text=Mosaddek%20Hosen%20Sajeeb&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Automation%20%7C%20Web%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;Turning+Raw+Data+into+Business+Insights;Building+Dashboards+that+Drive+Decisions;AI-Powered+Web+Developer+%7C+Vibe+Coding;Open+to+Remote+Data+Analyst+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;AI+Automation+Expert+%7C+n8n+Workflows;AI-Powered+Web+Developer+%7C+Vibe+Coding;Turning+Raw+Data+into+Business+Insights;Available+for+Freelance+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -33,12 +33,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 **B.Sc. Graduate** — Rangpur Government College (2nd Division)
-- 💼 Results-focused **Data Analyst** with hands-on experience in e-commerce, fintech & service industries
-- 📊 I build **interactive dashboards** that support faster, smarter business decisions
-- 🤖 I automate workflows using **n8n** to reduce manual effort
-- 🌐 I build **AI-powered websites** using Lovable, Cursor AI & Google AI Studio (Vibe Coding)
+- 📊 I provide **Data Analytics** services — dashboards, SQL analysis & business insights
+- 🤖 I build **AI Automation workflows** using n8n to save time & reduce manual work
+- 🌐 I develop **AI-powered websites** using Lovable, Cursor AI & Google AI Studio (Vibe Coding)
 - 🏆 **Google Data Analytics Professional Certificate** — Completed
-- 👯 Open to **Remote Data Analyst / BI Analyst Roles**
+- 💼 Available for **Freelance Projects** — Data Analytics | AI Automation | Web Development
 - 📫 Reach me at **iamsojib582@gmail.com**
 - 🌍 Based in **Pirganj, Rangpur, Bangladesh**
 
@@ -47,6 +46,7 @@
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analysis & Visualization
+
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
@@ -54,6 +54,7 @@
 </p>
 
 ### 💻 Programming & Querying
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -62,6 +63,7 @@
 </p>
 
 ### 🌐 Web Development (Vibe Coding)
+
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -69,11 +71,18 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-### ⚙️ Automation & Tools
+### 🤖 AI Tools & Automation
+
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### ⚙️ Version Control
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -97,14 +106,14 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🍽️ Mollywood Kitchen</h3>
+      <h3>🍽️ The Mollywood Kitchen</h3>
       <p><strong>React.js + Tailwind CSS + Supabase</strong></p>
       <ul>
         <li>Built a full-stack restaurant website using <strong>Vibe Coding</strong></li>
         <li>Integrated <strong>Supabase</strong> backend for menu & orders</li>
         <li>Responsive UI with <strong>React.js & Tailwind CSS</strong></li>
       </ul>
-      <a href="https://github.com/SajeebTheAnalyst/Mollywood-Kitchen">
+      <a href="https://github.com/SajeebTheAnalyst/The-Mollywood-Kitchen">
         <img src="https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -170,7 +179,6 @@
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajeebTheAnalyst&theme=react-dark&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff&hide_border=true" width="95%" />
 </div>
