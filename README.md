@@ -1,31 +1,35 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=200&section=header&text=Mosaddek%20Hosen%20Sajeeb&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Automation%20%7C%20Web%20Developer&descAlignY=58&descSize=18&descColor=a0c4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=220&section=header&text=Mosaddek%20Hosen%20Sajeeb&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Automation%20%7C%20Web%20Developer&descAlignY=56&descSize=20&descColor=a0c4ff&animation=fadeIn" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563eb&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;AI+Automation+Expert+%7C+n8n+Workflows;AI-Powered+Web+Developer+%7C+Vibe+Coding;Turning+Raw+Data+into+Business+Insights;Available+for+Freelance+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563eb&center=true&vCenter=true&width=700&height=45&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python;AI+Automation+Expert+%7C+n8n+Workflows;AI-Powered+Web+Developer+%7C+Vibe+Coding;Turning+Raw+Data+into+Business+Insights;Available+for+Freelance+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Socials -->
+<!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/sajeeb-the-analyst" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="mailto:iamsojib582@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/SajeebTheAnalyst" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
   <a href="https://sajeeb-the-analyst.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=SajeebTheAnalyst&label=Profile+Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SajeebTheAnalyst&label=Profile+Views&color=2563eb&style=for-the-badge" />
 </div>
 
 ---
@@ -33,20 +37,19 @@
 ## 👨‍💻 About Me
 
 - 🎓 **B.Sc. Graduate** — Rangpur Government College (2nd Division)
-- 📊 I provide **Data Analytics** services — dashboards, SQL analysis & business insights
+- 📊 I provide **Data Analytics** services — SQL analysis, dashboards & business insights
 - 🤖 I build **AI Automation workflows** using n8n to save time & reduce manual work
 - 🌐 I develop **AI-powered websites** using Lovable, Cursor AI & Google AI Studio (Vibe Coding)
 - 🏆 **Google Data Analytics Professional Certificate** — Completed
 - 💼 Available for **Freelance Projects** — Data Analytics | AI Automation | Web Development
-- 📫 Reach me at **iamsojib582@gmail.com**
-- 🌍 Based in **Pirganj, Rangpur, Bangladesh**
+- 📫 **iamsojib582@gmail.com**
+- 🌍 Pirganj, Rangpur, Bangladesh
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 📊 Data Analysis & Visualization
-
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
@@ -54,7 +57,6 @@
 </p>
 
 ### 💻 Programming & Querying
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -62,29 +64,29 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### 🌐 Web Development (Vibe Coding)
-
+### 🌐 Web Development
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### 🤖 AI Tools & Automation
-
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### ⚙️ Version Control
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -94,27 +96,28 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Credit Card Financial Analytics</h3>
-      <p><strong>PostgreSQL + Power BI</strong></p>
+      <h3>🤖 Analytics Copilot</h3>
+      <p><strong>React + TypeScript + Node.js + Gemini API</strong></p>
       <ul>
-        <li>Analyzed a <strong>$10.8M</strong> credit card dataset</li>
-        <li>Customer segmentation → reduced analysis time by <strong>30%</strong></li>
-        <li>Dashboards for <strong>5,000+</strong> accounts</li>
+        <li>Enterprise-grade <strong>AI analytics workspace</strong> inspired by Microsoft Fabric</li>
+        <li>Multi-dataset manager with <strong>AI-powered insights</strong> via Gemini</li>
+        <li>Privacy-first — all data computations run <strong>locally in browser</strong></li>
+        <li>🌐 Live: <a href="https://analyticscopilot.vercel.app">analyticscopilot.vercel.app</a></li>
       </ul>
-      <a href="https://github.com/SajeebTheAnalyst/Credit-Card-Financial-Analytics">
-        <img src="https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/SajeebTheAnalyst/Analytics-Copilot">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🍽️ The Mollywood Kitchen</h3>
-      <p><strong>React.js + Tailwind CSS + Supabase</strong></p>
+      <h3>📈 E-commerce CRO & Growth Analytics</h3>
+      <p><strong>Python + SQL + Power BI</strong></p>
       <ul>
-        <li>Built a full-stack restaurant website using <strong>Vibe Coding</strong></li>
-        <li>Integrated <strong>Supabase</strong> backend for menu & orders</li>
-        <li>Responsive UI with <strong>React.js & Tailwind CSS</strong></li>
+        <li>Deep-dive analytics on <strong>Conversion Rate Optimization</strong></li>
+        <li>Identified growth opportunities through funnel & cohort analysis</li>
+        <li>Built dashboards to track <strong>key CRO metrics</strong> and revenue impact</li>
       </ul>
-      <a href="https://github.com/SajeebTheAnalyst/The-Mollywood-Kitchen">
-        <img src="https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/SajeebTheAnalyst/ecommerce-cro-growth-analytics">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -123,40 +126,34 @@
       <h3>🛒 Olist E-commerce Analysis</h3>
       <p><strong>Python + SQL + Power BI</strong></p>
       <ul>
-        <li>Processed <strong>1,000,000+</strong> rows of e-commerce data</li>
-        <li>Top categories = <strong>60%</strong> of total revenue</li>
-        <li>Tracked fulfillment across <strong>5 regions</strong></li>
+        <li>Processed <strong>1,000,000+</strong> rows of multi-table e-commerce data</li>
+        <li>Top categories = <strong>60%</strong> of total revenue identified</li>
+        <li>Tracked fulfillment & retention across <strong>5 regions</strong></li>
       </ul>
       <a href="https://github.com/SajeebTheAnalyst/Olist-E-Commerce-Analysis">
-        <img src="https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏦 Bank Churn Analysis</h3>
-      <p><strong>Python + SQL + Power BI</strong></p>
+      <h3>🍽️ The Mollywood Kitchen</h3>
+      <p><strong>React.js + Tailwind CSS + Supabase</strong></p>
       <ul>
-        <li>Analyzed customer churn patterns in banking data</li>
-        <li>Identified key factors driving customer attrition</li>
-        <li>Built dashboards to monitor churn risk in real time</li>
+        <li>Full-stack restaurant website built via <strong>AI-assisted Vibe Coding</strong></li>
+        <li>Integrated <strong>Supabase</strong> backend for menu & order management</li>
+        <li>Fully responsive UI with <strong>React.js & Tailwind CSS</strong></li>
       </ul>
-      <a href="https://github.com/SajeebTheAnalyst/Bank-Churn-Analysis-">
-        <img src="https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/SajeebTheAnalyst/The-Mollywood-Kitchen">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📂 More Projects</h3>
-      <p>Explore all my data analysis & web development projects including datasets, dashboards, SQL scripts and documentation.</p>
-      <br/>
-      <a href="https://github.com/SajeebTheAnalyst?tab=repositories">
-        <img src="https://img.shields.io/badge/All%20Repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/SajeebTheAnalyst?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -199,7 +196,6 @@
 
 ---
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=120&section=footer" />
 </div>
