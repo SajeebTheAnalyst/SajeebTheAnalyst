@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### ⚙️ Version Control
+### ⚙️ Version Control & Deployment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -102,21 +102,21 @@
         <li>Enterprise-grade <strong>AI analytics workspace</strong> inspired by Microsoft Fabric</li>
         <li>Multi-dataset manager with <strong>AI-powered insights</strong> via Gemini</li>
         <li>Privacy-first — all data computations run <strong>locally in browser</strong></li>
-        <li>🌐 Live: <a href="https://analyticscopilot.vercel.app">analyticscopilot.vercel.app</a></li>
+        <li>🌐 <a href="https://analyticscopilot.vercel.app">analyticscopilot.vercel.app</a></li>
       </ul>
       <a href="https://github.com/SajeebTheAnalyst/Analytics-Copilot">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 E-commerce CRO & Growth Analytics</h3>
-      <p><strong>Python + SQL + Power BI</strong></p>
+      <h3>🤖 n8n AI Receptionist Workflow</h3>
+      <p><strong>n8n + Gemini AI + WhatsApp + Messenger + Telegram</strong></p>
       <ul>
-        <li>Deep-dive analytics on <strong>Conversion Rate Optimization</strong></li>
-        <li>Identified growth opportunities through funnel & cohort analysis</li>
-        <li>Built dashboards to track <strong>key CRO metrics</strong> and revenue impact</li>
+        <li><strong>24/7 multi-channel AI receptionist</strong> for bookings & inquiries</li>
+        <li>Handles WhatsApp, Facebook Messenger, Instagram DM & Telegram</li>
+        <li>Voice note processing + <strong>real-time Google Sheets</strong> sync</li>
       </ul>
-      <a href="https://github.com/SajeebTheAnalyst/ecommerce-cro-growth-analytics">
+      <a href="https://github.com/SajeebTheAnalyst/n8n-ai-receptionist-workflow">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -135,14 +135,14 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🍽️ The Mollywood Kitchen</h3>
-      <p><strong>React.js + Tailwind CSS + Supabase</strong></p>
+      <h3>📈 E-commerce CRO & Growth Analytics</h3>
+      <p><strong>Python + SQL + Power BI</strong></p>
       <ul>
-        <li>Full-stack restaurant website built via <strong>AI-assisted Vibe Coding</strong></li>
-        <li>Integrated <strong>Supabase</strong> backend for menu & order management</li>
-        <li>Fully responsive UI with <strong>React.js & Tailwind CSS</strong></li>
+        <li>Deep-dive analytics on <strong>Conversion Rate Optimization</strong></li>
+        <li>Funnel & cohort analysis to identify growth opportunities</li>
+        <li>Dashboards tracking key <strong>CRO metrics</strong> & revenue impact</li>
       </ul>
-      <a href="https://github.com/SajeebTheAnalyst/The-Mollywood-Kitchen">
+      <a href="https://github.com/SajeebTheAnalyst/ecommerce-cro-growth-analytics">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
